@@ -11,6 +11,7 @@ namespace apollo
         static void Main(string[] args)
         {
             Console.WriteLine("Hi! GitHub Enterprise");
+            Console.WriteLine("Hi! from earth");
         }
     }
 }
