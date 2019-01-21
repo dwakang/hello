@@ -12,6 +12,7 @@ namespace apollo
         {
             Console.WriteLine("Hi! GitHub Enterprise");
             Console.WriteLine("Hi! from earth");
+            Console.WriteLine("Hi! Monday");
         }
     }
 }
