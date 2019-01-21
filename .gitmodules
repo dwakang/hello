@@ -1,0 +1,3 @@
+[submodule "asia"]
+	path = asia
+	url = http://10.50.219.26/earth/asia.git
